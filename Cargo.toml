@@ -2,5 +2,12 @@
 name = "rledger"
 version = "0.1.0"
 edition = "2021"
+authors = ["Mahdy Karam"]
+description = "Accounting platform"
+readme = "README.md"
+# homepage = "https://mmkaram.github.io/railsy.html"
+repository = "https://github.com/mmkaram/hledger/"
+license = "MIT"
+keywords = ["accounting"]
 
 [dependencies]
